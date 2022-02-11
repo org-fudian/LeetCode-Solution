@@ -5,8 +5,6 @@ package p165;
  * 39.2MB memory:12.33%
  * step1:拆分版本号
  * step2:依次比较，如果有前导0去掉
- * @author Timing
- * @since 2022/2/11 12:13 PM
  */
 class Solution {
 	public int compareVersion(String version1, String version2) {

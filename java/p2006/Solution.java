@@ -3,8 +3,6 @@ package p2006;
 /**
  * 1 ms time:85.00%
  * 41M memory:6.00%
- * @author Timing
- * @since 2022/2/9 5:17 PM
  */
 class Solution {
 	public int countKDifference(int[] nums, int k) {

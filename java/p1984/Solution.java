@@ -5,8 +5,6 @@ import java.util.Arrays;
 /**
  * 4ms time:100%
  * 41.3M memory:8.28%
- * @author Timing
- * @since 2022/2/11 10:36 AM
  */
 /*
    k的最小差值，易得当有序时，滑动窗口长度为k的左端点数字和右端点数字的最小差为解
