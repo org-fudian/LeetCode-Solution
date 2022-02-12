@@ -6,8 +6,6 @@ import java.util.Arrays;
  * 简单回溯
  * 39ms
  * 38.7MB
- * @author Timing
- * @since 2022/2/11 4:26 PM
  */
 class Solution {
 
